@@ -1,0 +1,52 @@
+*
+{
+    margin: 0px;
+}
+.padre
+{
+    background-color: black;
+    padding: 40px;
+    width: 800px;
+}
+.a1
+{
+    background-color: yellow;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.a
+{
+    background-color: yellow;
+    padding: 20px;
+
+}
+.b
+{
+    background-color: blue;
+    padding: 20px;
+}
+.c
+{
+    background-color: lightgreen;
+    padding: 20px;
+}
+.d
+{
+    background-color:red;
+    padding: 20px;
+}
+.e
+{
+    background-color: gray;
+    padding: 20px;
+}
+.f
+{
+    background-color: black;
+    padding: 20px;
+}
+.g
+{
+    background-color: aquamarine;
+    padding: 20px;
+}
